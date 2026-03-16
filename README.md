@@ -1,6 +1,6 @@
 # Lo Shu Grid Reader
 
-> **[Download for macOS (Apple Silicon)](https://github.com/dragontpe/lo-shu-grid/releases/latest/download/Lo.Shu.Grid.Reader_0.1.0_aarch64.dmg)** — open the DMG and drag to Applications
+> **[Download for macOS](https://github.com/dragontpe/lo-shu-grid/releases/latest/download/Lo.Shu.Grid.Reader_0.1.0_universal.dmg)** — works on both Apple Silicon and Intel Macs. Open the DMG and drag to Applications.
 
 A macOS desktop application that generates personalised Lo Shu Grid numerology reports as premium PDF documents.
 
