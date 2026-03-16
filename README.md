@@ -1,5 +1,7 @@
 # Lo Shu Grid Reader
 
+> **[Download for macOS (Apple Silicon)](https://github.com/dragontpe/lo-shu-grid/releases/latest/download/Lo.Shu.Grid.Reader_0.1.0_aarch64.dmg)** — open the DMG and drag to Applications
+
 A macOS desktop application that generates personalised Lo Shu Grid numerology reports as premium PDF documents.
 
 The app takes a person's name, date of birth, and gender as input, calculates their Lo Shu Grid, selects the correct pre-written interpretation texts from the built-in library, assembles a personalised report, and exports a beautifully formatted PDF.
